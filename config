@@ -1,10 +1,10 @@
 NAME=SR-CFCS
 
-PORT=4050
+PORT=4057
 
 USER=softioc
 
-HOST=beauty-vm
+HOST=rfctrl01-vm
 
 CHDIR="$CHDIR/iocBoot/iocsr-cfcS"
 EXEC="$CHDIR/st.cmd"
