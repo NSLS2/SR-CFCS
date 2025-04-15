@@ -1,6 +1,6 @@
 NAME=SR-CFCS
 
-PORT=4070
+PORT=4071
 
 USER=softioc
 
